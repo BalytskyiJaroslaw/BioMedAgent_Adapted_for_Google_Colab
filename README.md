@@ -9,7 +9,7 @@
 
 This repository provides an **unofficial, Colab-oriented adaptation** of **BioMedAgent**, a multi-agent LLM framework for biomedical data analysis.
 
-The goal of this repository is **practical reproduction and accessibility**: instead of requiring a local Conda environment, Redis setup, and additional manual configuration, this version is arranged to run directly in **Google Colab** with a more guided workflow.
+This is an **accessible reproduction** arranged to run directly in **Google Colab**.
 
 This repository is intended for users who want to:
 
@@ -17,16 +17,6 @@ This repository is intended for users who want to:
 - reproduce the public demo workflow with minimal setup,
 - avoid local environment friction,
 - use a notebook-based interface with prompts for required inputs.
-
-## What this adaptation does
-
-This Colab adaptation is designed to make the public BioMedAgent workflow easier to run by:
-
-- organizing setup inside a notebook,
-- prompting the user for their API key,
-- prompting the user to upload the required files,
-- reducing manual environment configuration,
-- making the demo workflow easier to reproduce in Google Colab.
 
 ## Intended use
 
@@ -37,7 +27,7 @@ This repository is mainly for:
 - **educational/testing purposes**
 - **easier first access to the BioMedAgent workflow**
 
-It is **not** presented as an official release from the original BioMedAgent authors.
+It is **not** an official release from the original BioMedAgent Authors.
 
 ## Quick start
 
@@ -47,25 +37,17 @@ It is **not** presented as an official release from the original BioMedAgent aut
 4. Upload the required input file(s) when prompted by the notebook.
 5. Continue through the notebook cells to launch the adapted BioMedAgent workflow.
 
-## Notes
+## Important disclaimer
 
 - This repository is an **unofficial adaptation**.
-- Credit for the original BioMedAgent framework belongs to the original authors.
-- This repository focuses on making the public workflow easier to run in **Google Colab**.
-- Some tasks in the original project may require additional tooling or environments beyond the simplest Colab demo flow.
+- Credit for the original BioMedAgent framework belongs to the original Authors.
 
 ## Original BioMedAgent
 
 Original repository:  
 `https://github.com/BOBQWERA/BioMedAgent`
 
-BioMedAgent is presented by the original authors as a multi-agent LLM framework for biomedical data analysis.
-
-## Important disclaimer
-
-This repository is **not** the official BioMedAgent repository.
-
-It is an **independent Colab adaptation** intended to help users reproduce and test the public BioMedAgent workflow in a notebook-based environment.
+BioMedAgent is presented by the original Authors as a multi-agent LLM framework for biomedical data analysis.
 
 If you use BioMedAgent in academic work, please cite the **original BioMedAgent paper**.
 
