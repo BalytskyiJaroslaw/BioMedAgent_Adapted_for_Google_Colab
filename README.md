@@ -3,7 +3,8 @@
 > **Unofficial Google Colab adaptation of BioMedAgent**  
 > Open in Colab, enter your API key, upload the required input files, and follow the notebook prompts.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/BalytskyiJaroslaw/BioMedAgent_Adapted_for_Google_Colab/blob/main/BioMedAgent_adapted_for_Google_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalytskyiJaroslaw/BioMedAgent_Adapted_for_Google_Colab/blob/main/BioMedAgent_adapted_for_Google_Colab.ipynb)
+
 ## Overview
 
 This repository provides an **unofficial, Colab-oriented adaptation** of **BioMedAgent**, a multi-agent LLM framework for biomedical data analysis.
