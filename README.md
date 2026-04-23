@@ -31,7 +31,8 @@ It is **not** an official release from the original BioMedAgent Authors.
 
 ## Quick start
 
-1. Click the **Open in Colab** badge above.
+1. Click the [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalytskyiJaroslaw/BioMedAgent_Adapted_for_Google_Colab/blob/main/BioMedAgent_adapted_for_Google_Colab.ipynb)
+ badge.
 2. Run the setup cells.
 3. Enter your API key when prompted.
 4. Upload the required input file(s) when prompted by the notebook.
