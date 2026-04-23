@@ -13,6 +13,9 @@ In the above notebook, click this cell to setup the environment in Colab:
 
 ![Setting_up_the_environment](./Screenshot%202026-04-23%20122623.png)
 
+Then, enter your API key, choose the task for BioMedAgent to perform, and upload the corresponding data to process: 
+
+![Enter API key, choose task, and upload data](Screenshot%202026-04-23%20122640.png)
 
 
 
