@@ -26,6 +26,9 @@ This cell starts GPTServer and CodeExecutor, which are required to run BioMedAge
 
 ![Start GPTServer and CodeExecutor](Screenshot%202026-04-23%20122654.png)
 
+This cell executes the task, shows intermediate outputs and processing steps, and saves the results:
+
+![Execute the task and save results](Screenshot%202026-04-23%20122703.png)
 
 > Note that unlike the official BioMedAgent implementation, where the `t_test` helper relies on the `bio_r` environment and explicitly calls `Rscript`, this Colab adaptation implements the `t_test` helper in Python, and thus, there is no R dependency in the t-test workflow.
 
