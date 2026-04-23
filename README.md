@@ -18,6 +18,10 @@ Then, enter your API key, choose the task for BioMedAgent to perform, and upload
 ![Enter API key, choose task, and upload data](Screenshot%202026-04-23%20122640.png)
 
 
+This cell initializes the BioMedAgent model: 
+
+![Initialize the BioMedAgent model](Screenshot%202026-04-23%20122646.png)
+
 
 > Note that unlike the official BioMedAgent implementation, where the `t_test` helper relies on the `bio_r` environment and explicitly calls `Rscript`, this Colab adaptation implements the `t_test` helper in Python, and thus, there is no R dependency in the t-test workflow.
 
