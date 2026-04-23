@@ -9,10 +9,9 @@
 
 This repository provides an **unofficial, Colab-oriented adaptation** of **BioMedAgent**, a multi-agent LLM framework for biomedical data analysis.
 
-In the above notebook, click 
+In the above notebook, click this cell to setup the environment in Colab: 
 
-!["Blind" docking for ABHD5 protein](https://github.com/BalytskyiJaroslaw/BioMedAgent_Adapted_for_Google_Colab/blob/main/Screenshot 2026-04-23 122623.png) 
-
+![Setting_up_the_environment](./Screenshot%202026-04-23%20122623.png)
 
 
 
