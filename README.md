@@ -47,6 +47,8 @@ It is **not** an official release from the original BioMedAgent Authors.
 
 ## Original BioMedAgent
 
+You can download all their data using this notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalytskyiJaroslaw/BioMedAgent_Adapted_for_Google_Colab/blob/main/BioMedAgent_Download_Data.ipynb)
+
 Original repository:  
 `https://github.com/BOBQWERA/BioMedAgent`
 
