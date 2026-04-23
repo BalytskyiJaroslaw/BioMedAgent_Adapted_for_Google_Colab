@@ -9,6 +9,14 @@
 
 This repository provides an **unofficial, Colab-oriented adaptation** of **BioMedAgent**, a multi-agent LLM framework for biomedical data analysis.
 
+In the above notebook, click 
+
+!["Blind" docking for ABHD5 protein](https://github.com/BalytskyiJaroslaw/BioMedAgent_Adapted_for_Google_Colab/blob/main/Screenshot 2026-04-23 122623.png) 
+
+
+
+
+
 > Note that unlike the official BioMedAgent implementation, where the `t_test` helper relies on the `bio_r` environment and explicitly calls `Rscript`, this Colab adaptation implements the `t_test` helper in Python, and thus, there is no R dependency in the t-test workflow.
 
 This is an **accessible reproduction** arranged to run directly in **Google Colab**.
