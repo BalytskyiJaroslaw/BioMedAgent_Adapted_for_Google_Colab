@@ -17,6 +17,9 @@ Then, enter your API key, choose the task for BioMedAgent to perform, and upload
 
 ![Enter API key, choose task, and upload data](Screenshot%202026-04-23%20122640.png)
 
+The original demo input data are available in the [`Demo_data`](https://github.com/BalytskyiJaroslaw/BioMedAgent_Adapted_for_Google_Colab/tree/main/Demo_data) folder.
+
+The demo outputs for cross-checking are available in the [`Demo_outputs`](https://github.com/BalytskyiJaroslaw/BioMedAgent_Adapted_for_Google_Colab/tree/main/Demo_outputs) folder.
 
 This cell initializes the BioMedAgent model: 
 
