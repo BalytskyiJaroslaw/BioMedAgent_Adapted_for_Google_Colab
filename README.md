@@ -22,6 +22,10 @@ This cell initializes the BioMedAgent model:
 
 ![Initialize the BioMedAgent model](Screenshot%202026-04-23%20122646.png)
 
+This cell starts GPTServer and CodeExecutor, which are required to run BioMedAgent:
+
+![Start GPTServer and CodeExecutor](Screenshot%202026-04-23%20122654.png)
+
 
 > Note that unlike the official BioMedAgent implementation, where the `t_test` helper relies on the `bio_r` environment and explicitly calls `Rscript`, this Colab adaptation implements the `t_test` helper in Python, and thus, there is no R dependency in the t-test workflow.
 
