@@ -10,5 +10,4 @@ As an example, output of the `visualization_violin_plot` is this:
 ![Setting_up_the_environment](./wbc_distribution_plot.png)
 
 Example visualization survival plot is here: 
-![Setting_up_the_environment](./out_survival.pdf)
-
+[Open survival curve PDF](./Demo_outputs/out_survival.pdf)
