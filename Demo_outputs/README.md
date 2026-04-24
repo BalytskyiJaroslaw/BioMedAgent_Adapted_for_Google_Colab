@@ -8,3 +8,7 @@ extra extra 1 2 10 10 0.75 2.3299999999999996 1.7890096577591625 2.0022487357968
 As an example, output of the `visualization_violin_plot` is this:
 
 ![Setting_up_the_environment](./wbc_distribution_plot.png)
+
+Example visualization survival plot is here: 
+![Setting_up_the_environment](./out_survival.pdf)
+
