@@ -5,6 +5,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalytskyiJaroslaw/BioMedAgent_Adapted_for_Google_Colab/blob/main/BioMedAgent_adapted_for_Google_Colab.ipynb)
 
+In the current form, the notebook is doing 5 tasks: `statistics_t_test`, `machine_learning`, `statistics_qq_plot`, `visualization_survival_plot`, `visualization_violin_plot`. 
+
 ## Overview
 
 This repository provides an **unofficial, Colab-oriented adaptation** of **BioMedAgent**, a multi-agent LLM framework for biomedical data analysis.
